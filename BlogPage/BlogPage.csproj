@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BlogWeb.entity\BlogWeb.entity.csproj" />
+    <ProjectReference Include="..\BlogWeb.Repository\BlogWeb.Repository.csproj" />
+    <ProjectReference Include="..\BlogWeb.Service\BlogWeb.Service.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="assets\images\" />
+    <Folder Include="Views\Post\" />
+  </ItemGroup>
+
+</Project>

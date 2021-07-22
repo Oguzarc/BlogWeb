@@ -1,0 +1,37 @@
+﻿@model IEnumerable<BlogWeb.entity.Blog>
+@{
+    ViewData["Title"] = "MainPage";
+}
+<div class="page-wrapper">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-12">
+                @foreach (var post in Model)
+                {
+                    <div class="card" style="padding:25px">
+                        <div class="row mb-1">
+                            <div class="col-mb-auto">
+                                <div class="col-lg-auto"><h6 class="title"> Title:@post.Title </h6></div>
+                                <div class="col-md-auto"><p><h8 class="title"> Summary:@post.Summary </h8></div>
+                            </div>
+                        </div>
+                            <div class="row mb-3">
+                                <div class="col-md-auto">
+                                    <a asp-controller="Home" asp-action="Post" asp-route-id="@post.Id">Detaya Git</a>
+                                </div>
+                                <div class="col-md-auto">
+                                    <a asp-controller="Home" asp-action="PostEdit" asp-route-id="@post.Id">Edit</a>
+                                </div>
+                                <div class="col-md-auto">
+                                    <a asp-controller="Home" asp-action="Delete" asp-route-id="@post.Id">Sil</a>
+                                </div>
+                                <div class="col-md-auto">
+                                    <a asp-controller="Home" asp-action="Category" asp-route-id="@post.CategoryName">Kategoriyi Göster</a>
+                                </div>
+                            </div>
+                    </div>
+                 }
+            </div>
+        </div>
+    </div>
+</div>

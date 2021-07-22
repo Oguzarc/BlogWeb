@@ -1,0 +1,18 @@
+﻿@model BlogWeb.entity.Blog
+@{ 
+    ViewData["Title"] = "Posts";
+}
+<div class="page-wrapper">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-12">
+                <div class="card" style="padding:25px">
+                    <div class="col-mb-1">
+                        <div class="col-md-4"><h3 class="title">@Model.Title </h3></div>
+                        <div class="col-md-3"><h6 class="text-body"> @Model.Text </h6></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

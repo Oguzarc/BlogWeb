@@ -1,0 +1,12 @@
+C:\Users\Oğuz ARAÇ\source\repos\BlogWeb.api\BlogWeb.Repository\bin\Debug\netcoreapp3.1\BlogWeb.Repository.deps.json
+C:\Users\Oğuz ARAÇ\source\repos\BlogWeb.api\BlogWeb.Repository\bin\Debug\netcoreapp3.1\BlogWeb.Repository.dll
+C:\Users\Oğuz ARAÇ\source\repos\BlogWeb.api\BlogWeb.Repository\bin\Debug\netcoreapp3.1\BlogWeb.Repository.pdb
+C:\Users\Oğuz ARAÇ\source\repos\BlogWeb.api\BlogWeb.Repository\bin\Debug\netcoreapp3.1\BlogWeb.entity.dll
+C:\Users\Oğuz ARAÇ\source\repos\BlogWeb.api\BlogWeb.Repository\bin\Debug\netcoreapp3.1\BlogWeb.entity.pdb
+C:\Users\Oğuz ARAÇ\source\repos\BlogWeb.api\BlogWeb.Repository\obj\Debug\netcoreapp3.1\BlogWeb.Repository.csprojAssemblyReference.cache
+C:\Users\Oğuz ARAÇ\source\repos\BlogWeb.api\BlogWeb.Repository\obj\Debug\netcoreapp3.1\BlogWeb.Repository.AssemblyInfoInputs.cache
+C:\Users\Oğuz ARAÇ\source\repos\BlogWeb.api\BlogWeb.Repository\obj\Debug\netcoreapp3.1\BlogWeb.Repository.AssemblyInfo.cs
+C:\Users\Oğuz ARAÇ\source\repos\BlogWeb.api\BlogWeb.Repository\obj\Debug\netcoreapp3.1\BlogWeb.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Oğuz ARAÇ\source\repos\BlogWeb.api\BlogWeb.Repository\obj\Debug\netcoreapp3.1\BlogWeb.Repository.csproj.CopyComplete
+C:\Users\Oğuz ARAÇ\source\repos\BlogWeb.api\BlogWeb.Repository\obj\Debug\netcoreapp3.1\BlogWeb.Repository.dll
+C:\Users\Oğuz ARAÇ\source\repos\BlogWeb.api\BlogWeb.Repository\obj\Debug\netcoreapp3.1\BlogWeb.Repository.pdb

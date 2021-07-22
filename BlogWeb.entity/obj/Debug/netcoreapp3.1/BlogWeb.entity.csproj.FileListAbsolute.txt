@@ -1,0 +1,9 @@
+C:\Users\Oğuz ARAÇ\source\repos\BlogWeb.api\BlogWeb.entity\bin\Debug\netcoreapp3.1\BlogWeb.entity.deps.json
+C:\Users\Oğuz ARAÇ\source\repos\BlogWeb.api\BlogWeb.entity\bin\Debug\netcoreapp3.1\BlogWeb.entity.dll
+C:\Users\Oğuz ARAÇ\source\repos\BlogWeb.api\BlogWeb.entity\bin\Debug\netcoreapp3.1\BlogWeb.entity.pdb
+C:\Users\Oğuz ARAÇ\source\repos\BlogWeb.api\BlogWeb.entity\obj\Debug\netcoreapp3.1\BlogWeb.entity.csprojAssemblyReference.cache
+C:\Users\Oğuz ARAÇ\source\repos\BlogWeb.api\BlogWeb.entity\obj\Debug\netcoreapp3.1\BlogWeb.entity.AssemblyInfoInputs.cache
+C:\Users\Oğuz ARAÇ\source\repos\BlogWeb.api\BlogWeb.entity\obj\Debug\netcoreapp3.1\BlogWeb.entity.AssemblyInfo.cs
+C:\Users\Oğuz ARAÇ\source\repos\BlogWeb.api\BlogWeb.entity\obj\Debug\netcoreapp3.1\BlogWeb.entity.csproj.CoreCompileInputs.cache
+C:\Users\Oğuz ARAÇ\source\repos\BlogWeb.api\BlogWeb.entity\obj\Debug\netcoreapp3.1\BlogWeb.entity.dll
+C:\Users\Oğuz ARAÇ\source\repos\BlogWeb.api\BlogWeb.entity\obj\Debug\netcoreapp3.1\BlogWeb.entity.pdb
