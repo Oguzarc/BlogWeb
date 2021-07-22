@@ -67,3 +67,8 @@ C:\Users\Oğuz ARAÇ\source\repos\BlogWeb.api\BlogWeb.api\obj\Debug\netcoreapp3.
 C:\Users\Oğuz ARAÇ\source\repos\BlogWeb.api\BlogWeb.api\obj\Debug\netcoreapp3.1\BlogWeb.api.pdb
 C:\Users\Oğuz ARAÇ\source\repos\BlogWeb.api\BlogWeb.api\obj\Debug\netcoreapp3.1\BlogWeb.api.genruntimeconfig.cache
 C:\Users\Oğuz ARAÇ\source\repos\BlogWeb.api\BlogWeb.api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Oğuz ARAÇ\source\repos\BlogWeb.api\BlogWeb.api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Oğuz ARAÇ\source\repos\BlogWeb.api\BlogWeb.api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Oğuz ARAÇ\source\repos\BlogWeb.api\BlogWeb.api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Oğuz ARAÇ\source\repos\BlogWeb.api\BlogWeb.api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Oğuz ARAÇ\source\repos\BlogWeb.api\BlogWeb.api\obj\Debug\netcoreapp3.1\BlogWeb.api.MvcApplicationPartsAssemblyInfo.cs
